@@ -1,0 +1,41 @@
+.container {
+    height: 700px;
+    width: 100%;
+    margin-top: 100px;
+}
+
+.container-box {
+    height: 650px;
+    width: 30%;
+    border: 3px solid black;
+    float: left; 
+    margin-left: 40px;
+}
+.container-box img {
+    height: 300px;
+    width: 50%;
+}
+
+.contact-section {
+    height: 700px;
+    width: 100%;
+    margin-top: 300px;
+    position: relative;
+    /* float: right; */
+}
+.contact-box {
+    height: 600px;
+    width: 45%;
+    border: 3px solid black;
+    position: absolute;
+    /* display: inline-block; */
+}
+.map {
+    left: 30px;
+}
+.form {
+    right: 30px;
+}
+.footer {
+    position: relative;
+}
